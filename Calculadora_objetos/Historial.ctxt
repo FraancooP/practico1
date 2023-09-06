@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Historial
+comment1.params=num1\ num2\ conv\ factorial\ resultado\ operacion
+comment1.target=Historial(int,\ int,\ int,\ int,\ float,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
