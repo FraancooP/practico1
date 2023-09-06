@@ -1,0 +1,2 @@
+Los ejercicios estan realizados mediante el ide "BlueJ" los codigos se muestran en los archivos.java, ignorar los .class
+y los .ctxt!!
