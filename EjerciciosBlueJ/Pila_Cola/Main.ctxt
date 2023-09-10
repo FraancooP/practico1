@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=pila
+comment1.target=void\ menu(MiPila)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=cadena\ max
+comment3.target=boolean\ verificarPalidromo(java.lang.String,\ java.lang.Integer)
+numComments=4
