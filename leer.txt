@@ -1,2 +1,4 @@
 Los ejercicios estan realizados mediante el ide "BlueJ" los codigos se muestran en los archivos.java, ignorar los .class
 y los .ctxt!!
+Los Ejercicios 1,2,3,4 y Calculadora Objetos Estan realizados Mediante el ID BlueJ
+Los demas estan realizados con NetBeans.
